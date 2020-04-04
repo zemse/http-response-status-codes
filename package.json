@@ -1,0 +1,25 @@
+{
+  "name": "http-response-status-codes",
+  "version": "1.0.0",
+  "description": "Constants for HTTP response status codes that indicate whether a specific HTTP request has been successfully completed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zemse/http-response-status-codes.git"
+  },
+  "keywords": [
+    "HTTP",
+    "Response",
+    "Status",
+    "Codes"
+  ],
+  "author": "Soham Zemse <sohamzemse143@gmail.com> (https://github.com/zemse)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zemse/http-response-status-codes/issues"
+  },
+  "homepage": "https://github.com/zemse/http-response-status-codes#readme"
+}
